@@ -1,3 +1,4 @@
+;;; Code
 (message "This defines customized keys")
 
 (global-set-key (kbd "C-c C-s") 'copy-to-register)

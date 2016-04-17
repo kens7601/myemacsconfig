@@ -1,5 +1,8 @@
 ;;; package -- Summary
 
+;;; Commentary
+
+;;; Code
 (message "this sets up org preferences")
 
 (setq org-directory "~/.org")
